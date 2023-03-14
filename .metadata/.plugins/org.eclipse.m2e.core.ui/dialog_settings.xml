@@ -44,12 +44,14 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="GithubDemo"/>
 			<item value="cucumber"/>
 			<item value="BDD"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="GithubDemo"/>
 			<item value="cucumber"/>
 			<item value="BDD"/>
 		</list>

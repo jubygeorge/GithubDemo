@@ -29,14 +29,7 @@
 			<item value=""/>
 		</list>
 		<list key="C:\Users\George.LIFE\git\cucumber\.git">
-			<item value="false"/>
-			<item value="Juby George &lt;jubieegeorge@gmail.com&gt;"/>
-			<item value="# WARNING: head commit changed in the meantime&#x0D;&#x0A;&#x0D;&#x0A;&#x0D;&#x0A;&#x0D;&#x0A;Change-Id: I0000000000000000000000000000000000000000&#x0D;&#x0A;&#x0D;&#x0A;&#x0D;&#x0A;"/>
-			<item value="Juby George &lt;jubieegeorge@gmail.com&gt;"/>
-			<item value="0000000000000000000000000000000000000000"/>
-			<item value="0"/>
-			<item value="true"/>
-			<item value=""/>
+			<item value="empty"/>
 		</list>
 	</section>
 </section>
